@@ -4,7 +4,7 @@
 	"name": "Momrah Gauge",
 	"description": "A gauge for Momrah",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://example.momrah/box/icon.png",
+	"icon": "https://shayth-pwc.github.io/MomrahCW/box/icon.png",
 	"vendor": "Shayth Baker",
 	"eula": "EULA",
 	"license": "1.0",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://example.momrah/box/box.js",
+			"url": "https://shayth-pwc.github.io/MomrahCW/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://example.momrah/box/box_sps.js",
+			"url": "https://shayth-pwc.github.io/MomrahCW/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://example.momrah/box/box_bps.js",
+			"url": "https://shayth-pwc.github.io/MomrahCW/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
