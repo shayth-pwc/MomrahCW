@@ -14,21 +14,21 @@
 			"tag": "com-momrah-gauge",
 			"url": "https://shayth-pwc.github.io/MomrahCW/box/box.js",
 			"integrity": "",
-			"ignoreIntegrity": true
+			"ignoreIntegrity": false
 		},
 		{
 			"kind": "styling",
 			"tag": "com-momrah-box-sps",
 			"url": "https://shayth-pwc.github.io/MomrahCW/box/box_sps.js",
 			"integrity": "",
-			"ignoreIntegrity": true
+			"ignoreIntegrity": false
 		},
 		{
 			"kind": "builder",
 			"tag": "com-momrah-box-bps",
 			"url": "https://shayth-pwc.github.io/MomrahCW/box/box_bps.js",
 			"integrity": "",
-			"ignoreIntegrity": true
+			"ignoreIntegrity": false
 		}
 	],
 	"properties": {
